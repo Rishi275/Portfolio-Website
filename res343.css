@@ -1,0 +1,390 @@
+@media only screen and (max-width:700px) {
+    .firstsection {
+        height: 150vh;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    .text-big {
+
+        letter-spacing: 12px;
+        font-style: italic;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 60px;
+        line-height: 86px;
+        margin-left: -27px;
+        color: transparent;
+        -webkit-text-stroke: 0.5px white;
+        background: url(back.png);
+
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-clip: border-box;
+        -webkit-background-clip: text;
+        background-position: 0 0;
+        animation: back 20s linear infinite;
+        padding-top: 0rem;
+    }
+    
+    .project{
+        height: 100vh;
+    }
+    .box{
+        height: 100px;
+        width:  100px;
+        
+    
+      }
+   
+    .logo {
+        width: 46%;
+        display: flex;
+        padding-left: 2rem;
+        padding-bottom: 1rem;
+    }
+
+    .right-nav {
+        width: 95%;
+    }
+
+    #Search {
+
+        width: 16rem;
+    }
+
+    #front {
+        margin-left: -39px;
+        font-size: 22px;
+    }
+
+    .my-text {
+        margin-left: -57px;
+        font-size: 13px;
+    }
+
+    .secondhalf img {
+        width: 85%;
+        border-radius: 14%;
+        border: 1px solid rgb(255, 255, 255);
+        display: flex;
+        margin: -12px;
+        padding-top: 0rem;
+        position: absolute;
+        top: 14rem;
+        left: 44px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+
+    .secondhalf {
+        padding-top: 0rem;
+        padding-left: 0px;
+        width: 30%;
+    }
+
+    .secondhalf {
+        width: 30%;
+        padding-top: 0rem;
+        position: absolute;
+    }
+
+    .sec-para,
+    .title {
+        letter-spacing: 6px;
+        font-style: italic;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 31px;
+        line-height: 100px;
+        margin-left: 20px;
+        -webkit-text-stroke: 0.5px #f00;
+        margin-top: -155px;
+        color: #fafafa;
+        padding-bottom: 0rem;
+    }
+
+    .sec-para,
+    .title {
+        letter-spacing: 6px;
+        font-style: italic;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 31px;
+        line-height: 100px;
+        -webkit-text-stroke: 0.5px #f00;
+        color: #fafafa;
+    }
+
+    .para-content {
+        margin-right: -50px;
+        font-size: 15px;
+    }
+
+    .main-project {
+        margin-top: 56px;
+    }
+
+    .imgfluid {
+        visibility: hidden;
+    }
+
+    div ul li a {
+        font-size: 14px;
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+    .footer-nav-list-3 {
+        display: flex;
+        flex-direction: column;
+        margin-left: -165px;
+    }
+
+    .nave-item {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding: 0px;
+    }
+
+    .itemx {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .footer-nav-list {
+        display: flex;
+        flex-direction: column;
+        margin-left: -67px;
+    }
+
+    .nav-list-left li a:hover {
+        list-style: none;
+        color: aqua;
+        padding: 0px;
+    }
+
+    .fa-youtube-square {
+        font-family: "Font Awesome 5 Brands";
+        letter-spacing: 2rem;
+        line-height: 1;
+        padding-top: 0rem;
+        position: absolute;
+        left: 169.183px;
+        font-size: 3rem;
+        margin-top: 111px;
+    }
+
+
+    #fab1 {
+        line-height: 2;
+        left: 240.183px;
+        font-size: 2rem;
+        letter-spacing: 15px;
+      }
+
+    .content-box {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mp1 {
+        font-size: 1rem;
+      }
+
+    #fab2 {
+
+        font-family: "Font Awesome 5 Brands";
+        letter-spacing: 2rem;
+        line-height: 1;
+        margin-top: 134px;
+        position: absolute;
+        left: 240.183px;
+        font-size: 3rem;
+        margin-top: 53px;
+        margin-top: 161px;
+    }
+
+    #fab3 {
+
+        font-family: "Font Awesome 5 Brands";
+        letter-spacing: 2rem;
+        line-height: 1;
+        padding-top: 0rem;
+        position: absolute;
+        left: 169.183px;
+        font-size: 3rem;
+        margin-top: 165px;
+    }
+
+
+    .follow-account {
+        margin-left: -44px;
+    }
+
+    .mylogo {
+        padding: 0px;
+        margin-bottom: -217px;
+        border-top-width: -1px;
+        margin-top: 0px;
+        position: absolute;
+        top: 18rem;
+    }
+
+    .main-project {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project-image img {
+        height: 6rem;
+        width: 12rem;
+        padding: 15px;
+        align-content: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .sec-right-2 {
+        height: auto;
+        display: flex;
+        color: #fafafa;
+        align-items: center;
+        justify-content: center;
+        max-width: 1894px;
+    }
+
+    .sec-right-3 {
+        width: 343.2px;
+        height: auto;
+    }
+
+ 
+
+    .lets-connect {
+        color: #fdffff;
+        font-size: 2rem;
+        font-family: 'Playfair Display', serif;
+        padding-left: 4rem;
+    }
+
+    .form {
+        max-width: 40vh;
+        margin: auto;
+    }
+
+    #message {
+        width: 84%;
+    }
+
+    .btn1 {
+        padding: 6px 12px;
+        margin: 16px 2rem;
+
+    }
+
+
+
+    #name {
+        font-size: 21px;
+    }
+
+    #email {
+
+        font-size: 21px;
+    }
+
+    #message {
+
+        font-size: 21px;
+    }
+}
+
+@media only screen and (max-width:1100px) 
+{
+    .box{
+        height: 170px;
+        width:  170px;
+       
+    
+      }
+      .project-image img{
+    
+        height: 130px;
+        width:  150px;
+    }
+
+}
+@media only screen and (min-width: 401px) and 
+(max-width: 611px) {
+
+    .box{
+        height: 150px;
+        width:  150px;
+    }
+    .project-image img{
+    
+        height: 130px;
+        width:  130px;
+    }
+}
+@media only screen and (min-width: 250px) and 
+(max-width: 400px)
+{
+    .box{
+        height: 100px;
+        width:  100px;
+    } 
+    .project-image img{
+    
+        height: 80px;
+        width:  80px;
+    }
+}
+@media only screen and (min-width: 150px) and 
+(max-width: 263px)
+{
+#contact{
+    height: 300vh;
+}
+
+}
+
+@media only screen and (min-width: 1097px) and 
+(max-width: 1330px)
+{
+    .box{
+        height: 180px;
+        width:  180px;
+    } 
+    .project-image img{
+    
+        height: 150px;
+        width:  150px;
+    }
+}
+
+@media only screen and (min-width: 70px) and 
+(max-width: 497px){
+
+.secondhalf{
+    margin-top: 80px;
+}
+}
+
+@media only screen and (min-width: 494px) and 
+(max-width: 1400px){
+
+    .loader{
+        height: 50%;
+    }
+}
+
+@media only screen and (min-width: 210px) and 
+(max-width: 270px){
+    .sec-right{
+       height: 114vh;
+    }
+
+}
